@@ -512,11 +512,12 @@ a {
 
 
 .mood__container {
-   background-image: url(../image/bc.png);
+   background-image: url(../image/bc.png) ;
    width: 1440px;
    height: 568px;
    display: flex;
    justify-content: space-around;
+   background-size: 100%;
 }
 
 .mood__block {
